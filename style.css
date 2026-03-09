@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+    table{
+        width: 90%;
+        height: 100vh;
+        margin: auto;
+    }
+    td{
+        width: 5%;
+        height: 8vh;
+    }
+
+    .border{
+        border: solid;
+        text-align: center;
+    }
+
+    .gasesnobres{background-color: rebeccapurple;}
+    .naometais{background-color: cadetblue;} 
+    .alcalinos{background-color: chocolate;}
+    .alcalinosterrosos{background-color: rgb(156, 97, 77);}
+    .lantanideos{background-color: rgb(230, 59, 59);}
+    .semimetal{background-color: rgb(131, 112, 5);}
+    .halogenios{background-color: rgb(52, 114, 185);}
+    .transicoes{background-color: rgb(8, 167, 106);}
